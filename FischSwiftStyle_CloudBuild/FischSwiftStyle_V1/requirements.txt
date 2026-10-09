@@ -1,0 +1,1 @@
+mss>=9.0.1\nnumpy>=1.26\nopencv-python>=4.9\nkeyboard>=0.13.5\n
